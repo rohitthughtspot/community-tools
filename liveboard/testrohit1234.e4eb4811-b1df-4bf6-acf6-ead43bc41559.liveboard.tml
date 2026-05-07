@@ -1,10 +1,10 @@
 guid: e4eb4811-b1df-4bf6-acf6-ead43bc41559
 liveboard:
-  name: testrohit123
+  name: testrohit1234
   visualizations:
   - id: Viz_1
     answer:
-      name: "Total Extended Price test 123, Total Order Total Price, Total Quantity by Brand1 and Category"
+      name: "Total Extended Price, Total Order Total Price, Total Quantity by Brand1 and Category"
       tables:
       - id: TPCH Model With Table Alias
         name: TPCH Model With Table Alias
